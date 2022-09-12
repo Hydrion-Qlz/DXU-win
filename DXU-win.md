@@ -1,7 +1,9 @@
 # DXU-win
 大兴赢
 
+<div align="center">
 <center><img src="imgs/logo-v4-background.png" class="school-icon"></center>
+</div>
 
 1. 中秋节大兴教务还在上班，发预推免通知，敬业精神赢麻了！
 2. 美团offer清北t0独一档，其余学校一档
@@ -18,7 +20,10 @@
 ## 交通图对比
 
 **大兴->燕园**
-<center><img src="imgs/dx-pku.jpg" ></center>
-
+<div align="center">
+  <img src="imgs/dx-pku.jpg" width="300">
+</div>
 **昌平->燕园**
-<center><img src="imgs/cp-pku.jpg" ></center>
+<div align="center">
+  <img src="imgs/cp-pku.jpg" width="300">
+</div>
