@@ -1,7 +1,7 @@
 # DXU-lose
 
 大兴输了，（哭腔）
-<center><img src="imgs/logo-v4.png" style="background-color: rgba(166, 18, 18);padding-right:30px"></center>
+<center><img src="imgs/logo-v4-background.png" class="school-icon"></center>
 
 1. 宿舍问题，由于校区建的比较早（且好像并没有一直维修）导致宿舍条件很差，和昌平没法比
 2. 大兴无学硕，前几年是有学硕的，现在只有直博（但是尊贵的直博从研一开始就在燕园），昌平学硕，博都有，小输

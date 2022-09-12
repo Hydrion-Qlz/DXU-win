@@ -1,6 +1,7 @@
 # DXU-win
-大兴大学赢麻了，建议每日阅读
-<center><img src="imgs/logo-v4.png" style="background-color: rgba(166, 18, 18);padding-right:30px"></center>
+大兴赢
+
+<center><img src="imgs/logo-v4-background.png" class="school-icon"></center>
 
 1. 中秋节大兴教务还在上班，发预推免通知，敬业精神赢麻了！
 2. 美团offer清北t0独一档，其余学校一档
